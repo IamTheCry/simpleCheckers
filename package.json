@@ -1,0 +1,22 @@
+{
+  "name": "checker-tron",
+  "version": "1.0.0",
+  "description": "A simple checkers implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTheCry/simpleCheckers.git"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamTheCry/simpleCheckers/issues"
+  },
+  "homepage": "https://github.com/IamTheCry/simpleCheckers#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
